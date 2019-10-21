@@ -5,7 +5,8 @@
 - 第3回
   - 宿題スライドに以下を加えました．
     - 標準化の方法
-    - 統計検定2級へのリンク（2019年6月の問題は [http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf](http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf) にあります）
+    - 統計検定2級へのリンク
+      - 2019年6月の問題は [http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf](http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf) にあります．
   - 正規分布に領域を描く方法をスライドの最後のページに加えました．
 - 第2回
   - レポートに用いる N は講義中に言っていた値が誤っていたので，データセットの実際のデータ数を確認してください．
