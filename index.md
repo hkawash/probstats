@@ -5,12 +5,13 @@
 - 第3回
   - 宿題スライドに以下を加えました．
     - 標準化の方法
-    - 統計検定2級へのリンク（2019年6月の問題は [http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf] にあります）
+    - 統計検定2級へのリンク（2019年6月の問題は [http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf](http://www.toukei-kentei.jp/wp-content/uploads/201906grade2.pdf) にあります）
   - 正規分布に領域を描く方法をスライドの最後のページに加えました．
 - 第2回
   - レポートに用いる N は講義中に言っていた値が誤っていたので，データセットの実際のデータ数を確認してください．
-  - N の 1/3 乗の計算方法
-    - Windows の関数電卓（標準の電卓と関数電卓を切り替えられます）
+  - N の 1/3 乗（つまり $\sqrt{3}{N}$）の計算方法
+    - Windows の関数電卓の $\sqrt{y}{x}$（標準の電卓と関数電卓を切り替えられます）
+      - 例: 64を入れる $\rightarrow$ $\sqrt{y}{x}$を押す $\rightarrow$ 3を入れる ... $\sqrt{3}{64} = 4$ が求まる．
     - Google  にて「N^(1/3)」を検索（Nには具体的な数字を入れる）
     - Python にて，`N**(1/3)` や `pow(N, 1/3)`
 
