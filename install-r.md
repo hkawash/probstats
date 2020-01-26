@@ -20,3 +20,4 @@
 4. Japan (...) を選ぶ (Tokyo, Yonezawa のどちらでも)
 5. Rcmdr を選んでインストール
 
+- [(トップページへ戻る)](index)
