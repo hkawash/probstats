@@ -56,7 +56,7 @@
   - [解答](exercise/exam1_answer.pdf)
 - [第9,10回の練習問題 (レポート3)](exercise/ex9-10.pdf)
   - [解答](exercise/ex9-10_answer.pdf)
-- [後半(第9-14回)の練習問題 (上記練習問題を含む](exercise/ex9-14.pdf)
+- [後半 (第9-14回) の練習問題 (上記練習問題を含む)](exercise/ex9-14.pdf)
   - [解答](exercise/ex9-14_answer.pdf)
     - PDFコメント機能で，参考となる復習スライドのページを入れています．
     - いったんダウンロードして Acrobat Reader などで開いてください．（ブラウザから直接だと見れないもしくは文字化けする場合があります．）
