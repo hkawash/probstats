@@ -45,7 +45,7 @@
 |9 |2019/12/09 |[データ収集と実験計画](slide/ProbStat2019_09.pdf) |
 |10|2019/12/16 |[母比率の検定と推定](slide/ProbStat2019_10.pdf)，[第9,10回練習問題](exercise/ex9-10.pdf) [(解答)](exercise/ex9-10_answer.pdf)|
 |11|2019/12/23 |[カイ二乗検定](slide/ProbStat2019_11.pdf) |
-|12|2020/01/06 |[標本サイズと検定](slide/ProbStat2019_12.pdf)，[第9-14回練習問題](exercise/ex9-14.pdf) |
+|12|2020/01/06 |[標本サイズと検定](slide/ProbStat2019_12.pdf)，[第9-14回練習問題](exercise/ex9-14.pdf) [(解答)](exercise/ex9-14_answer.pdf)|
 |13|2020/01/20 |[相関と回帰](slide/ProbStat2019_13.pdf) |
 |14|2020/01/27 |[回帰分析](slide/ProbStat2019_14.pdf) |
 |15|2020/01/29 |まとめと発展的話題 |
